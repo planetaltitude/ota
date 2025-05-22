@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/planetaltitude/ota/releases/download/2025052000/akita-2025052000-25cb0ae-rootless.zip",
+    "location_csig": "https://github.com/planetaltitude/ota/releases/download/2025052000/akita-2025052000-25cb0ae-rootless.zip.csig"
+  }
+}
