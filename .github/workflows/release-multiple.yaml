@@ -25,7 +25,7 @@ jobs:
             magisk-preinit-device: sda5
           - device-id: mustang # Pixel 10 Pro XL
             magisk-preinit-device: sda10
-          - device-id: stallion # Pixel 10a (experimental)
+          - device-id: stallion # Pixel 10a
             magisk-preinit-device: sda10
           - device-id: frankel # Pixel 10
             magisk-preinit-device: sda10
@@ -41,9 +41,7 @@ jobs:
             magisk-preinit-device: metadata
           - device-id: tokay # Pixel 9
             magisk-preinit-device: sda10
-          - device-id: husky # Pixel 8 Pro
-            magisk-preinit-device: sda10
-          - device-id: shiba # Pixel 8
+          - device-id: akita # Pixel 8a
             magisk-preinit-device: sda10
           - device-id: bluejay # Pixel 6a
             magisk-preinit-device: sda8
